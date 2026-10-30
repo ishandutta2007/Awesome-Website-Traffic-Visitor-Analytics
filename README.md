@@ -63,9 +63,9 @@ The table below lists leading commercial SaaS and hosted analytics vendors, sort
 
 ## 💻 Open-Source & Self-Hosted Analytics Projects
 
-The table below lists open-source, privacy-first, and self-hosted website analytics solutions, sorted descending by GitHub star count. Beside each project name is a social badge linking directly to its repository stargazers page. 🌟
+The table below lists open-source, privacy-first, and self-hosted website analytics solutions, sorted descending by GitHub Stars_Count. Beside each project name is a social badge linking directly to its repository stargazers page. 🌟
 
-| Repository | GitHub Stars Badge | Primary Language / Stack | License | Description & Architectural Focus |
+| Repository | GitHub_Stars_Badge | Primary Language / Stack | License | Description & Architectural Focus |
 | :--- | :--- | :--- | :--- | :--- |
 | **[PostHog](https://github.com/PostHog/posthog)** | [![PostHog Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers) | Python / TypeScript / ClickHouse | MIT (with commercial terms) | All-in-one developer and product analytics platform providing web traffic tracking, session replay, heatmaps, feature flags, A/B testing, and user surveys. Requires 16GB+ RAM for self-hosting. |
 | **[Umami](https://github.com/umami-software/umami)** | [![Umami Stars](https://img.shields.io/github/stars/umami-software/umami?style=social&color=white)](https://github.com/umami-software/umami/stargazers) | TypeScript / Node.js / PostgreSQL / MySQL | MIT | Extremely popular, lightweight, and modern Google Analytics alternative. Collects privacy-compliant metrics with a tiny 2KB tracker; features session replay, heatmaps, custom boards, and zero AGPL constraints. |
@@ -144,7 +144,7 @@ Your support keeps this ecosystem directory up-to-date and actively maintained! 
 1. 🍴 Fork the repository.
 2. 📝 Add your SaaS product or open-source repository following the table formatting conventions.
 3. 💵 For SaaS products: Provide verified starting tier pricing, free limits, and valuation/revenue indicators.
-4. 🌟 For Open-Source repositories: Ensure the GitHub stars badge links directly to `/stargazers` and list the repo in descending star order.
+4. 🌟 For Open-Source repositories: Ensure the GitHub_Stars_Badge links directly to `/stargazers` and list the repo in descending star order.
 5. 🚀 Submit a descriptive Pull Request!
 
 ---
